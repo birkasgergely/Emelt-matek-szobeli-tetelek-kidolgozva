@@ -1,1 +1,1 @@
-# -retts-gi-t-telek
+# Erettsegi-tetelek
